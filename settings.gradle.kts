@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "gps-asee-ga015"
 include(":app")
+

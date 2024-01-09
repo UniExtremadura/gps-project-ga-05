@@ -1,4 +1,4 @@
-package es.uex.gps_asee_ga015.ui.theme
+package com.example.gps_asee_ga015.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun Gpsaseega015Theme(
+fun gps_asee_ga015Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

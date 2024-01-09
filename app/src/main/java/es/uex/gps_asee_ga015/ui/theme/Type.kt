@@ -1,4 +1,4 @@
-package es.uex.gps_asee_ga015.ui.theme
+package com.example.gps_asee_ga015.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
